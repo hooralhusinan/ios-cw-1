@@ -6,7 +6,7 @@ var hobby1 = "swimming"
 var hobby2 = "walkinhg"
 var age = 17
 var height = 162
-print ( "hello my  name is  , \(name)  and ,my hobby is  \(hobby1) and , \(hobby2) , i am age years old , my  height is \(hight) " )
+print ( "hello my  name is  , \(name)  and ,my hobby is  \(hobby1) and , \(hobby2) , i am age years old , my  height is \(height) " )
 //
 var friendhobby1 = "swimming"
 var freindAge = 18
